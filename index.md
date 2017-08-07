@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "'Yo!'"
-tags: [jaan altosaar, jaan, physics, phd, princeton, mcgill, gre, physics gre, grad school, columbia]
-description: I'm a Physics PhD student using machine learning to improve science.
+title: "Home"
+tags: [michael bostwick, UNC, chapel hill, grad school, machine learning, statistics, operations research]
+description: I'm a MS student in Statistics and Operations Research at UNC-Chapel Hill.
 ---

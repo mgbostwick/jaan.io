@@ -2,41 +2,28 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm excited about improving science (and your life) using machine learning and design.
-tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collective behavior, columbia, physics, computer science, useful science, design, artificial intelligence, intelligent design]
-image:
-  feature: altosaar-workshop.jpg
+description: I'm excited about helping organizations use data to make better decisions.
+tags: [about, Michael Bostwick, Masters, UNC, Chapel Hill, machine learning, statistics, operations research, STOR]
 ---
-I'm a Physics PhD student at Princeton doing research at the intersection of Bayesian inference and deep learning. I am fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). 
+I'm currently a MS Student at UNC-Chapel Hill studying Statistics and Operations Research [(UNC STOR)](http://stat-or.unc.edu) with
+a concentration in Machine Learning. This summer I was a Data Science Intern at FinTech startup, [Spreedly](http://spreedly.com), where
+I built a Lead Scoring model using machine learning techniques. 
 
-My work is supported by an NSERC Postgraduate Scholarship. In 2015 I had lots of fun doing research with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [DeepMind](http://deepmind.com/), and in 2016 I collaborated with [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/) at [Google Brain](https://research.google.com/).
-
-Find my CV at [jaan.io/cv](https://jaan.io/cv). In short: when it comes to Big Data, I live and breathe it.
-
-I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I love volleyball, meditation, [music production](https://soundcloud.com/lyfos), and George Saunders. 
-
-How can we use technology such as machine learning to effect the most societal good? This is what motivates me. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
+Prior to returning to grad school, I was a Statistician at [RTI International](http://rti.org) where I provided statistical support to clients including
+the Centers for Disease Control, Department of Education and the Department of Justice, primarily in the area of survey statistics. Before
+that I was an analyst in the IT department of [Navy Federal Credit Union](http://navyfederal.org) and the Operations department of
+non-profit [CRU](http://www.cru.org). My undergraduate degree was in Statistics from the University of Connecticut, bringing my schools'
+Men's basketball national championship total to 10 and counting :)
 
 ---
 
-### Reach!
+### Contact Me
+I can be reached by email: [mgb2188@live.unc.edu](mailto:mgb2188@live.unc.edu).
 
-The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I'm grateful for any positive or negative feedback through [this anonymous form](http://www.admonymous.com/jaan). Feel free to connect via:
-
-[{% icon fa-twitter %} Twitter](https://twitter.com/thejaan)
-[{% icon fa-linkedin %} LinkedIn](http://www.linkedin.com/in/jaanaltosaar)
-[{% icon fa-soundcloud %} Soundcloud](https://soundcloud.com/lyfos)
-[{% icon fa-flickr %} Flickr](https://www.flickr.com/photos/thejaan/)
-[{% icon fa-github %} GitHub](https://github.com/altosaar)
+Also find me on: [{% icon fa-linkedin %} LinkedIn](https://www.linkedin.com/in/michaelbostwick1/) [{% icon fa-github %} GitHub](https://github.com/mgbostwick)
 
 ---
 
-### Colophon
+### Thanks
 
-Hey! Having a 'colophon' doesn't mean I'm a jerk! Just wanted to thank [Cole Townsend](http://coletownsend.com/) for letting me fork his Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
-
-
-
-
-
-
+Thanks to [Jaan Altosaar](https://github.com/altosaar/jaan.io) for letting me use his Jekyll theme.
